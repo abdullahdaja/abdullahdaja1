@@ -45,7 +45,7 @@ section {
     min-height: 100vh;
     display: flex;
     align-items: center;
-    background: url(../sun.png) no-repeat;
+    background: url(sun.PNG) no-repeat;
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
